@@ -18,4 +18,14 @@
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
   </entry>
+  <entry>
+    <title>BootstrapValidator</title>
+    <url>/2020/10/25/BootstrapValidator/</url>
+    <content><![CDATA[<p>​    在_isExcluded()方法里，当元素具有属性data-bv-excluded=”false”时，可不排除此字段。</p>
+<p>​    这种情况适用于某个被隐藏的字段，如使用了chosen组件，实际的选择框会被隐藏，而默认的options.excluded为[“:disabled”, “:hidden”, “:not(:visible)”]，会跳过该字段的校验，为了不影响其他隐藏的字段，增加该属性，在校验时不排除此字段即可。</p>
+]]></content>
+      <categories>
+        <category>前端</category>
+      </categories>
+  </entry>
 </search>
