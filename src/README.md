@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: 主页
-hero: true
+hero: false
 bgImage: https://api.boxmoe.com/random.php
 heroFullScreen: true
 # heroImage: /logo.svg
