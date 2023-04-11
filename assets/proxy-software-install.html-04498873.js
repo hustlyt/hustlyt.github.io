@@ -1,0 +1,4 @@
+import{_ as e,W as s,X as a,a0 as t}from"./framework-805f0bea.js";const l={},n=t(`<p>tuic</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>bash &lt;(curl -sSL app2122.ml/tuic)
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>snell</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>bash &lt;(curl -sSL app2122.ml/snell)
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>ss-rust</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>bash &lt;(curl -sSL app2122.ml/ss)
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>`,6),i=[n];function d(r,c){return s(),a("div",null,i)}const o=e(l,[["render",d],["__file","proxy-software-install.html.vue"]]);export{o as default};

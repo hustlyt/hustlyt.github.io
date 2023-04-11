@@ -1,0 +1,1 @@
+import{_ as e,W as t,X as c,Y as _}from"./framework-805f0bea.js";const o={},s=_("p",null,"测试文章",-1),n=[s];function r(a,l){return t(),c("div",null,n)}const d=e(o,[["render",r],["__file","article1.html.vue"]]);export{d as default};
