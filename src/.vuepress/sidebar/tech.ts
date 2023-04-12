@@ -2,6 +2,14 @@ import { arraySidebar } from "vuepress-theme-hope";
 
 export const tech = arraySidebar([
   {
+    text: "OpenAI",
+    icon: "info",
+    link: "OpenAI/",
+    prefix: "OpenAI/",
+    collapsible: true,
+    children: "structure",
+  },
+  {
     text: "Azure",
     icon: "info",
     link: "Azure/",
