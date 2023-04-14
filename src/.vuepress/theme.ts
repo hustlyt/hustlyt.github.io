@@ -14,6 +14,7 @@ export default hopeTheme({
   logo: "/logo.svg",
   //repo: "vuepress-theme-hope/vuepress-theme-hope",
   docsDir: "src",
+  contributors: false,
 
   locales: {
     "/": {

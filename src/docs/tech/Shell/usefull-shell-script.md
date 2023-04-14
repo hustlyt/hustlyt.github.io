@@ -1,5 +1,5 @@
 ---
-title: VPS解锁脚本
+title: 常用Shell脚本
 icon: page
 order: 2
 author: sugar
@@ -10,7 +10,7 @@ tag:
   - SHELL
 ---
 
-## 1.[spiritLHLS](https://github.com/spiritLHLS/spiritLHLS)
+# 1.[spiritLHLS](https://github.com/spiritLHLS/spiritLHLS)
 
 [VPS融合怪服务器测评脚本](https://github.com/spiritLHLS/ecs)
 
@@ -28,10 +28,14 @@ tag:
 
 [convoypanel-scripts](https://github.com/spiritLHLS/convoypanel-scripts)
 
-## 2.[七舅姥爷yeahwu](https://github.com/yeahwu/check)
+# 2.[七舅姥爷yeahwu](https://github.com/yeahwu/check)
 
 测试奈飞，TikTok，ChatGPT等流媒体解锁脚本
 
-## 3.[RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck)
+# 3.[RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck)
 spiritLHLS的融合怪里已经包含了
+
+
+# 4、[咕咕鸽整理脚本](https://blog.laoda.de/archives/useful-script)
+
 
